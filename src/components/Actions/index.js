@@ -50,7 +50,7 @@ export default function Actions() {
 
     <TouchableOpacity style={styles.actionButton}>
   <View style={styles.areaButton}>
-  <AntDesign name='help' size={26} color="#000"></AntDesign>
+  <AntDesign name='setting' size={26} color="#000"></AntDesign>
   </View>
     <Text style={styles.labelButton}>Ajuda</Text>
     </TouchableOpacity>
